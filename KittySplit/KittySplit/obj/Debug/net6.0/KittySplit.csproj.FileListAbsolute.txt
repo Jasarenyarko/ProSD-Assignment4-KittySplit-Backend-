@@ -1,0 +1,7 @@
+/Users/jasarenyarko/Desktop/ProSD/Assignment_4/KittySplit/KittySplit/obj/Debug/net6.0/KittySplit.csproj.AssemblyReference.cache
+/Users/jasarenyarko/Desktop/ProSD/Assignment_4/KittySplit/KittySplit/obj/Debug/net6.0/KittySplit.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jasarenyarko/Desktop/ProSD/Assignment_4/KittySplit/KittySplit/obj/Debug/net6.0/KittySplit.AssemblyInfoInputs.cache
+/Users/jasarenyarko/Desktop/ProSD/Assignment_4/KittySplit/KittySplit/obj/Debug/net6.0/KittySplit.AssemblyInfo.cs
+/Users/jasarenyarko/Desktop/ProSD/Assignment_4/KittySplit/KittySplit/obj/Debug/net6.0/KittySplit.csproj.CoreCompileInputs.cache
+/Users/jasarenyarko/Desktop/ProSD/Assignment_4/KittySplit/KittySplit/obj/Debug/net6.0/KittySplit.MvcApplicationPartsAssemblyInfo.cs
+/Users/jasarenyarko/Desktop/ProSD/Assignment_4/KittySplit/KittySplit/obj/Debug/net6.0/KittySplit.MvcApplicationPartsAssemblyInfo.cache
